@@ -31,7 +31,7 @@ a,
 nav,
 .nav-links {
   display: flex;
-}*
+}
 
 nav {
   justify-content: space-around;
@@ -520,3 +520,6 @@ footer {
 footer p {
   text-align: center;
 }
+
+
+
